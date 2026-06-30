@@ -2,6 +2,10 @@
 
 Real-time market data dashboard built for IIFT analysts, tracking key commodity and currency indicators with live charts and metrics.
 
+## 🔗 Live Demo
+
+**[View the live dashboard →](https://tradepulseworkshop-zcbg2mr7bjgdogg27qioet.streamlit.app/)**
+
 ## Overview
 
 TradePulse is a Streamlit-based dashboard that pulls live market data via `yfinance` and presents it through clean, interactive visualizations — built for quick at-a-glance market monitoring.
